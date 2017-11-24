@@ -1,0 +1,78 @@
+body {
+   
+    background-image: url(C:\Users\Thoma\Desktop\Dossier Thomas\fond.jpg);
+   
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    
+}
+footer {
+    background-color: #FB4343;
+    background-repeat: round;
+    margin: 1220px 0px 50px 0px;
+}
+header {
+    background-color: #FB4343;
+    background-repeat: round;
+    margin: 0px 600px 50px 500px;
+}
+
+#photo{
+
+    margin: 0px 0px;
+    float: left;
+    
+}
+
+h1{
+    text-align: center;
+    margin: 0px 0px 0px 0px
+ 
+}
+
+body section #formation {
+    margin: 0px 670px 50px 0px;
+    float: right;
+    background-color: #fff;
+}
+
+body section #exppro {
+    margin: 0px 600px 0px 10px;
+    float: right;
+    background-color: #fff;
+}
+body section #competence {
+    margin: 0px 0px 0px 500px;
+    float: left;
+    background-color: #fff;
+    
+}
+body section #outils {
+    margin: 0px 20px 0px 500px;
+    float: left;
+    background-color: #fff;
+}
+body header #profil {
+    margin: 0px 0px 0px 0px;
+    float: left;
+    background-color: #fff;
+}
+body section #loisir {
+    margin:  0px 60px 0px 500px;
+    float: left;
+    background-color: #fff;
+}
+body section #entete {
+    margin: 0px 0px 30px 500px;
+   
+}
+body section #entete p {
+    margin: 0px 0px 0px 125px;
+}
+
+    
+
+#logo {
+    margin: 0px 0px 0px 500px;
+}
